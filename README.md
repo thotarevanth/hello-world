@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+hello everybody,
+This is my first commit in git felling excited
